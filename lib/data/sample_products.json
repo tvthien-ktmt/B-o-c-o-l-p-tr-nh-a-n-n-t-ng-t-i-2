@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 1299.99,
+    "imageUrl": "https://cdn2.fptshop.com.vn/unsafe/828x0/filters:format(webp):quality(75)/2023_9_13_638302015843008975_iPhone_15_Blue_Pure_Back_iPhone_15_Blue_Pure_Front_2up_Screen__USEN.jpg",
+    "category": { "id": 1, "name": "Smartphone" }
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M3",
+    "price": 1899.99,
+    "imageUrl": "https://macstores.vn/wp-content/uploads/2024/03/macbook_air_m3_13inch_8gb_256gb_midnight_1.jpg",
+    "category": { "id": 2, "name": "Laptop" }
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "price": 399.99,
+    "imageUrl": "https://bizweb.dktcdn.net/100/451/485/products/sony-wh-1000xm6-3.jpg?v=1748256486890",
+    "category": { "id": 3, "name": "Headphones" }
+  }
+]
